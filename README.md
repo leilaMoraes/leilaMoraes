@@ -2,11 +2,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480px" height="270px" />
 
-- :computer: I'm a full-stack web development student at Trybe.
-- :musical_note: I studied Music Education at UEMG (University of the State of Minas Gerais) and now I'm in career transition.
-- :heart: I love music, dance, theater, travel, games, and code of course!
-- :thought_balloon: Join music, code and travel the world is my biggest dream!
-- :speaking_head: If I can help in something, just call me :wink:
+- :computer: I'm a full-stack web developer.
+- :musical_note: I studied Music Education at UEMG (University of the State of Minas Gerais) and now I'm transitioning careers.
+- :heart: I love music, dancing, theater, traveling, games, and coding of course!
+- :thought_balloon: Join music, coding and traveling the world is my biggest dream!
+- :speaking_head: Let's colaborate :wink:
   
 ## Social Medias
  
