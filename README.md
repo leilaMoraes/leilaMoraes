@@ -6,6 +6,14 @@
 - :musical_note: I studied Music Education at UEMG (University of the State of Minas Gerais) and now I'm in career transition.
 - :heart: I love music, dance, theater, travel, games, and code of course!
 - :thought_balloon: Join music, code and travel the world is my biggest dream!
+- :speaking_head: If I can help in something, just call me :wink:
+  
+## Social Medias
+ 
+<div>
+  <a href = "mailto:leilamoraesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leila-moraes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ## Skills Learned
 
@@ -18,13 +26,6 @@
   <img align="center" alt="icon-ReactRouter" height="30" width="100" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img align="center" alt="icon-Redux" height="30" width="70" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img align="center" alt="icon-Jest" height="30" width="70" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-</div>
-  
-## Social Medias
- 
-<div>
-  <a href = "mailto:leilamoraesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leila-moraes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## GitHub Stats
